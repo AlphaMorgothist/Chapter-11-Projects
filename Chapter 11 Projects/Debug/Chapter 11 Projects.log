@@ -1,0 +1,4 @@
+﻿  Chapter11Projects.cpp
+c:\users\denisa craus\source\repos\chapter 11 projects\chapter 11 projects\header.h(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter 11 Projects.vcxproj -> C:\Users\Denisa Craus\source\repos\Chapter 11 Projects\Debug\Chapter 11 Projects.exe
+  Chapter 11 Projects.vcxproj -> C:\Users\Denisa Craus\source\repos\Chapter 11 Projects\Debug\Chapter 11 Projects.pdb (Partial PDB)
